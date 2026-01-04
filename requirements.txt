@@ -1,0 +1,6 @@
+cerebras-cloud-sdk
+flask
+flask-cors
+python-dotenv
+requests
+beautifulsoup4
